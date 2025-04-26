@@ -18,9 +18,6 @@ Atualmente, estou focado em estudar Engenharia de Dados, realizando os cursos ab
 
 ## 💞️ Paixão
 Tenho grande paixão por ferramentas que simplificam e agilizam o trabalho diário. Acredito no poder das tecnologias que tornam os processos mais eficientes, permitindo-me concentrar mais tempo na análise de dados e na geração de insights valiosos.
-- ChatGPT
-- Gemini
-- Streamlit
 
 ## 📫 Contato
 https://www.linkedin.com/in/marcel-bruno/
